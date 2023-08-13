@@ -1,5 +1,0 @@
-{{#iambadliar}
-Name: Abhishek Sainis
-Skills: HTML, CSS, JS, Node.js, Bootstrap, MySQL, API, express.js, JQuery
-Email:abhishek143saini@gmail.com
-{/iambadliar}}
